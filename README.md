@@ -3,7 +3,7 @@
   <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="MasterHead" />
 </p>
 
-<h1 align="center">Hi 👋, I'm PERINBA SARAVANAN K</h1>
+<h1 align="center">Hi 👋, I'm THIRUMURURGAN L</h1>
 <h3 align="center"><i>Full Stack Developer | Problem Solver | DSA Enthusiast | Java Programmer</i></h3>
 
 ---
@@ -14,12 +14,12 @@
     <td width="60%">
       <h2>👨‍💻 About Me</h2>
       <ul>
-        <li>🎓 Pursuing <b>Electronics and Communication Engineering</b> at Bannari Amman Institute of Technology</li>
+        <li>🎓 Pursuing <b>Information Technology</b> at Erode Sengunthar Engineering College</li>
         <li>💻 Skilled in <b>Full Stack Web Development</b> (MERN)</li>
         <li>🧠 Strong grasp of <b>Data Structures and Algorithms</b></li>
-        <li>🔧 Experienced in <b>Problem Solving</b>, <b>Circuit Design</b>, and <b>PCB Design</b></li>
-        <li>🤖 Interested in integrating <b>Artificial Intelligence</b> with electronics</li>
-        <li>📬 Reach me at: <a href="mailto:perinbasaravanank06@gmail.com">perinbasaravanank06@gmail.com</a></li>
+        <li>🔧 Experienced in <b>Problem Solving</b></li>
+        <li>🤖 Interested in integrating <b>Artificial Intelligence</b></li>
+        <li>📬 Reach me at: <a href="mailto:thirumuruganl0307@gmail.com">thirumuruganl0307@gmail.com</a></li>
         <li>⚡ Fun Fact: I love turning real-world challenges into working tech solutions 😄</li>
       </ul>
     </td>
@@ -34,7 +34,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />        
+  <!-- <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />         -->
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /><br><br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -50,8 +50,8 @@
 ## 📊 LeetCode Stats
 
 <p align="center">
-  <a href="https://leetcode.com/Perinbasaravanank_06">
-    <img src="https://leetcard.jacoblin.cool/Perinbasaravanank_06" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/u/THIRUMURUGANL_29/">
+    <img src="https://leetcard.jacoblin.cool/THIRUMURUGANL_29" alt="LeetCode Stats" />
   </a>
 </p>
 
@@ -60,21 +60,18 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=perinbasaravanan-06&show_icons=true&theme=radical" alt="GitHub Stats" width="445" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perinbasaravanan-06&layout=compact&theme=radical" alt="Top Languages" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=THIRUMURUGAN-07&show_icons=true&theme=radical" width="445"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THIRUMURUGAN-07&layout=compact&theme=radical" width="400"/>
 </p>
-
-
 
 ---
 
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/perinbasaravanan06" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/perinbasaravana2" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-  <a href="https://www.leetcode.com/perinbasaravanan_06" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/perinbasaravanan_06" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/thirumurugan29/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/profile/thirumuruganl031" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/THIRUMURUGANL_29/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 </p>
 
 ---
