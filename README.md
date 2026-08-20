@@ -47,22 +47,38 @@
 
 ---
 
+---
+
+---
+
 ## 📊 LeetCode Stats
 
 <p align="center">
   <a href="https://leetcode.com/u/THIRUMURUGANL_29/">
-    <img src="https://leetcard.jacoblin.cool/THIRUMURUGANL_29" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/THIRUMURUGANL_29?theme=radical&font=Synne&ext=heatmap" alt="LeetCode Animated Stats" width="450"/>
   </a>
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Interactive Analytics
 
+
+
+<!-- Dynamic Stats & Language Cards -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=THIRUMURUGAN-07&show_icons=true&theme=radical" width="445"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THIRUMURUGAN-07&layout=compact&theme=radical" width="400"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=THIRUMURUGAN-07&show_icons=true&theme=radical&rank_icon=percentile&include_all_commits=true&count_private=true" width="410" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=THIRUMURUGAN-07&layout=donut&theme=radical&hide_border=false" width="390" alt="Top Languages Donut Chart" />
 </p>
+
+<!-- Animated Activity Graph Wave -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=THIRUMURUGAN-07&theme=react-dark&bg_color=141321&hide_border=false&color=ff3399&line=ff3399&point=ffffff&area=true&hide_title=false" alt="Activity Graph Wave" />
+</p>
+
+---
+
+
 
 ---
 
