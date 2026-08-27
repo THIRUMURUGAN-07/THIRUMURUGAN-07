@@ -77,10 +77,6 @@
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=THIRUMURUGAN-07&layout=donut&theme=radical&hide_border=false" width="390" alt="Top Languages Donut Chart" />
 </p>
 
-<!-- Animated Activity Graph Wave -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=THIRUMURUGAN-07&theme=react-dark&bg_color=141321&hide_border=false&color=ff3399&line=ff3399&point=ffffff&area=true&hide_title=false" alt="Activity Graph Wave" />
-</p>
 
 ---
 
